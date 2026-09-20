@@ -3,13 +3,13 @@
 Junior Full-Stack Developer based in Wrocław, Poland, focused on React on the frontend and Node.js/Express on the backend.
 
 - 🎓 FullStack Developer diploma — Genius.Space ([verify](https://genius.space/crt-verify/?verify=cf7c4d27-b5bf-4a80-bcbe-4758f346abec))
-- 🌱 Currently learning React Native
 - 📫 fnazzar111@gmail.com · [LinkedIn](https://www.linkedin.com/in/nazar-filipchuk/)
 
 ### Tech stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/-Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=white)
